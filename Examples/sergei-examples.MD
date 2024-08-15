@@ -1,0 +1,6 @@
+![ceo](/Examples/sergei-examples-images/ceo.png)
+![Ryan](/Examples/sergei-examples-images/ryan.png)
+![privateinfo](/Examples/sergei-examples-images/privateinfo.png)
+![diluted](/Examples/sergei-examples-images/diluted.png)
+![revenue](/Examples/sergei-examples-images/revenue.png)
+![2024_1,2Q](/Examples/sergei-examples-images/2024first2q.png)
